@@ -1,3 +1,3 @@
-# little_spark
+# Little spark
 
-A new Flutter project.
+Destiny 2 companion app
